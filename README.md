@@ -6,6 +6,7 @@ The project demonstrates core cloud concepts such as serverless architecture, AP
 1.PROJECT OVERVIEW:
 
 This project demonstrates how to build a full serverless application using:
+
 1.S3 – Frontend hosting
 
 2.API Gateway – Exposes API endpoint
