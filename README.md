@@ -17,15 +17,16 @@ iv)DynamoDB – Stores page view count
 
 The frontend is built using HTML, CSS, JavaScript, and connects to AWS services through an API.
 
-2.Features
+2.FEATURES
 
-Serverless architecture (no servers to manage)
-Frontend hosted on Amazon S3
+i)Serverless architecture (no servers to manage)
 
-API built using API Gateway
+ii)Frontend hosted on Amazon S3
 
-Backend logic implemented with AWS Lambda (Python)
+iii)API built using API Gateway
 
-Visitor count stored and updated in DynamoDB
+iv)Backend logic implemented with AWS Lambda (Python)
 
-Interactive UI with JavaScript
+v)Visitor count stored and updated in DynamoDB
+
+vi)Interactive UI with JavaScript
