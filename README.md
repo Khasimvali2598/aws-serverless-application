@@ -7,13 +7,13 @@ The project demonstrates core cloud concepts such as serverless architecture, AP
 
 This project demonstrates how to build a full serverless application using:
 
-1.S3 – Frontend hosting
+i)S3 – Frontend hosting
 
-2.API Gateway – Exposes API endpoint
+ii)API Gateway – Exposes API endpoint
 
-3.AWS Lambda – Backend logic
+iii)AWS Lambda – Backend logic
 
-4.DynamoDB – Stores page view count
+iv)DynamoDB – Stores page view count
 
 The frontend is built using HTML, CSS, JavaScript, and connects to AWS services through an API.
 
